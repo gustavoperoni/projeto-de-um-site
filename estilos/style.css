@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(105, 6, 187);
+    background-color: rgb(38, 83, 161);
 }
 
 main {
@@ -12,5 +12,27 @@ background-color: white;
 width: 500px;
 margin: auto;
 padding: 10px;
-box-shadow: 3px 3px 5px black;
+box-shadow: 3px 3px 5px rgb(0, 0, 0);
 }
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+
+img.lado {
+    float: right;
+}
+img.astronauta {
+    display: block;
+  margin: auto;  
+}
+
+
